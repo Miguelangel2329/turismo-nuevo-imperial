@@ -9,7 +9,7 @@ export function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/placeholder.svg?height=1080&width=1920"
+          src="/nuev.png?height=1080&width=1920"
           alt="Vista panorámica del Bosque de Protección Aledaño a la Bocatoma del Canal Nuevo Imperial"
           fill
           className="object-cover"
