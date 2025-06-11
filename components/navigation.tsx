@@ -14,7 +14,7 @@ export function Navigation() {
     { href: "#sobre-nosotros", label: "Sobre el Bosque" },
     { href: "#actividades", label: "Actividades" },
     { href: "#conservacion", label: "Conservación" },
-    { href: "#galeria", label: "Galería" },
+    { href: "#galeria", label: "Flora y Fauna" },
     { href: "#visita", label: "Planifica tu Visita" },
   ]
 
